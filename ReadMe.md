@@ -28,11 +28,3 @@ score.csv              	7.3.2 공분산과 상관관계'에 나온 프로그램�
 temperature.csv      	코드7-7에서 읽어들이는 데이터
 ReadMe.txt            	본 파일
 ~~~
-
-## 압축 해제 시 알집 등의 프로그램에서 오류가 발생할 경우
-
-ZIP 파일을 내려받아 압축을 풀 때 특정 압축 프로그램에서 '.ipynb' 파일에 대해 '올바르지 않은 경로입니다' 같은 내용의 오류가 발생할 수 있습니다. 이 경우 반디집 같은 프로그램을 사용하시면 문제 없이 압축을 해제하실 수 있습니다.
-
-- [Windows용 반디집](https://kr.bandisoft.com/bandizip/)
-- [macOS용 반디집](https://kr.bandisoft.com/bandizip.mac/)
-
